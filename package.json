@@ -22,7 +22,10 @@
   "files": [
     "lib/**/*"
   ],
-  "keywords": ["x", "Galactic"],
+  "keywords": [
+    "x",
+    "Galactic"
+  ],
   "author": "O-H",
   "license": "ISC",
   "devDependencies": {
